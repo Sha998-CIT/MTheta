@@ -1,4 +1,4 @@
 Scrum Developmental Model M-theta Technology Solutions
-M1 - First line and first commit again to test 
+M1 - MAKING MORE CHANGES -First line and first commit again to test 
 f1 -add feature 1 (login) with additional security
 f2 - (Actually added through branch f1 INADVERTENTLY) - process for ORGANIZATION picture
